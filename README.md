@@ -1,2 +1,1 @@
-# repo1
-con txt
+esto es una prueba sobre como cree un repo en la nuve, lo clone a local y lo pushee
